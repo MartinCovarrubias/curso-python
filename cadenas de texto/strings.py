@@ -33,3 +33,4 @@ print(cadena8)
 #\v simbolo vertical
 cadena9 = "Esto es \vun ejemplo de borrado"
 print(cadena9)
+
