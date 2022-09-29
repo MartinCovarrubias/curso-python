@@ -12,3 +12,4 @@ print(cadena[::2])
 print(cadena[::-1])
 #**5. Imprima la cadena en un sentido y en sentido inversoclea
 print(cadena[::1], cadena[::-1])
+
